@@ -351,9 +351,9 @@ Wireframes
 High-Fidelity designs
 Design System
 Scenario Testing results
-Figma Design & Prototype
+### Figma Design & Prototype
 
-https://www.figma.com/design/pJPBLOIKQsvNO5A53Gd8VJ/Untitled?node-id=16-1004&t=KdhPdONBA6FgqMlg-1
+[View the Figma Design & Prototype](https://www.figma.com/design/pJPBLOIKQsvNO5A53Gd8VJ/Untitled?node-id=16-1004&t=KdhPdONBA6FgqMlg-1)
 
 16. Final Design Goal
 
